@@ -1,0 +1,17 @@
+.main_image {
+    width: auto;
+    height: 800px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.margin_top_50 {
+    margin-top: 50px;
+}
+
+.base {
+    overflow: hidden;
+}
